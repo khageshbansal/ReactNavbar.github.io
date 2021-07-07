@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.47cd2891.chunk.css",
-    "main.js": "/static/js/main.2c6c039c.chunk.js",
-    "main.js.map": "/static/js/main.2c6c039c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dbbcf088.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dbbcf088.js.map",
-    "static/js/2.bc81f0ce.chunk.js": "/static/js/2.bc81f0ce.chunk.js",
-    "static/js/2.bc81f0ce.chunk.js.map": "/static/js/2.bc81f0ce.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.47cd2891.chunk.css.map": "/static/css/main.47cd2891.chunk.css.map",
-    "static/js/2.bc81f0ce.chunk.js.LICENSE.txt": "/static/js/2.bc81f0ce.chunk.js.LICENSE.txt"
+    "main.css": "/ReactNavbar.github.io/static/css/main.47cd2891.chunk.css",
+    "main.js": "/ReactNavbar.github.io/static/js/main.2c6c039c.chunk.js",
+    "main.js.map": "/ReactNavbar.github.io/static/js/main.2c6c039c.chunk.js.map",
+    "runtime-main.js": "/ReactNavbar.github.io/static/js/runtime-main.94efd9fc.js",
+    "runtime-main.js.map": "/ReactNavbar.github.io/static/js/runtime-main.94efd9fc.js.map",
+    "static/js/2.bc81f0ce.chunk.js": "/ReactNavbar.github.io/static/js/2.bc81f0ce.chunk.js",
+    "static/js/2.bc81f0ce.chunk.js.map": "/ReactNavbar.github.io/static/js/2.bc81f0ce.chunk.js.map",
+    "index.html": "/ReactNavbar.github.io/index.html",
+    "static/css/main.47cd2891.chunk.css.map": "/ReactNavbar.github.io/static/css/main.47cd2891.chunk.css.map",
+    "static/js/2.bc81f0ce.chunk.js.LICENSE.txt": "/ReactNavbar.github.io/static/js/2.bc81f0ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbbcf088.js",
+    "static/js/runtime-main.94efd9fc.js",
     "static/js/2.bc81f0ce.chunk.js",
     "static/css/main.47cd2891.chunk.css",
     "static/js/main.2c6c039c.chunk.js"
